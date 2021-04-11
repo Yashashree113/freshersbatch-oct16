@@ -1,0 +1,1 @@
+This file consists of three assignments: HTML assignment, CSS assignment and Javascript assignment.
