@@ -1,1 +1,1 @@
-This file consists of three assignments: HTML assignment, CSS assignment and Javascript assignment. All the assignments are in one folder. Assignment files have been created. Assignment files are deleted after merging. 
+This file consists of three assignments: HTML assignment, CSS assignment and Javascript assignment. All the assignments are in one folder. Assignment files have been created.
